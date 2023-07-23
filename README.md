@@ -1,8 +1,6 @@
-Here is a sample README file for an iris flower classification project using python and machine learning:
-
 # Iris Flower Classification
-
-This project uses python and machine learning to classify Iris Flowers into their respective species based on their physical characteristics.
+Iris Flower has three specie; setosa, versicolor and virginica, which differs according to their measurements. Now assume that you have the measurements of the Iris flower according to their species and our task is to train a machine learning model that can learn from the measurements of the Iris species and classify them on the basis of their physical characteristics.
+Here is a sample README file for an Iris Flower Classification Project using Python and Machine Learning:
 
 ## Getting Started
 
